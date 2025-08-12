@@ -44,4 +44,6 @@ psql -h localhost -U postgres
 But sometimes I prefer a graphical visualization better! You can use the included [pgAdmin](https://www.pgadmin.org/) GUI tool from when you first downloaded PostgreSQL. 
 
 Or, I like to use the [DBeaver](https://dbeaver.io/) GUI tool since it includes interactions with other RDBMS and NoSQL databases. It's also free, open-source, and the GUI is intuitive (at least to me)!
-  * Build the Postgres connection using the following URL: `jdbc:postgresql://localhost:5432/postgres`
+  * Build the Postgres connection using the following URL: `jdbc:postgresql://localhost:5432/postgres` (or see screenshot below)
+  * <img width="826" height="646" alt="image" src="https://github.com/user-attachments/assets/abac1281-3e83-4b86-bc04-d4c979cd2ad2" />
+
